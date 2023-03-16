@@ -1,0 +1,136 @@
+h1 {
+  color: #194472;
+  position: relative;
+  left: 40px;
+  font-size: 38px;
+}
+h2 {
+  position: relative;
+  left: 60px;
+  font-size: 30px;
+}
+h3 {
+  position: relative;
+  left: 30px;
+  font-size: 25px;
+}
+
+.cloud-jj {
+  font-size: 110px;
+  color: #b1bcc9;
+  position: relative;
+  top: -70px;
+  left: 350px;
+}
+.cloudy-icon {
+  position: relative;
+  top: -75px;
+  left: 390px;
+  font-size: 20px;
+}
+.cloud-fry {
+  color: #b1bcc9;
+  font-size: 60px;
+  position: relative;
+  left: 18px;
+  bottom: -40px;
+}
+.cloud-sun-sat {
+  color: #b1bcc9;
+  font-size: 60px;
+  position: relative;
+  left: 80px;
+  bottom: -40px;
+}
+.cloud-sund {
+  color: #b1bcc9;
+  font-size: 60px;
+  position: relative;
+  left: 130px;
+  bottom: -40px;
+}
+.cloud-mon {
+  color: #b1bcc9;
+  font-size: 60px;
+  position: relative;
+  left: 200px;
+  bottom: -40px;
+}
+.cloud-sun-tue {
+  color: #b1bcc9;
+  font-size: 60px;
+  position: relative;
+  left: 305px;
+  bottom: -40px;
+}
+.fri {
+  font-size: 18px;
+  position: relative;
+  bottom: 53px;
+  left: 40px;
+}
+.sat {
+  font-size: 18px;
+  position: relative;
+  bottom: 96px;
+  left: 180px;
+}
+.sun {
+  font-size: 18px;
+  position: relative;
+  bottom: 140px;
+  left: 330px;
+}
+.mon {
+  font-size: 18px;
+  position: relative;
+  bottom: 183px;
+  left: 470px;
+}
+.tue {
+  font-size: 18px;
+  position: relative;
+  bottom: 226px;
+  left: 640px;
+}
+.fri-c {
+  font-size: 15px;
+  position: relative;
+  bottom: 160px;
+  left: 35px;
+}
+.sat-c {
+  font-size: 15px;
+  position: relative;
+  bottom: 198px;
+  left: 175px;
+}
+.sun-c {
+  font-size: 15px;
+  position: relative;
+  bottom: 237px;
+  left: 327px;
+}
+.mon-c {
+  font-size: 15px;
+  position: relative;
+  bottom: 276px;
+  left: 474px;
+}
+.tue-c {
+  font-size: 15px;
+  position: relative;
+  bottom: 315px;
+  left: 660px;
+}
+.celsus-of-the-week {
+  font-weight: bold;
+}
+.day-of-the-week {
+  font-weight: bold;
+  color: #194472;
+}
+.cloudy-icon {
+  color: #194472;
+  font-weight: bold;
+}
